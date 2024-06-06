@@ -10,3 +10,4 @@ This is a .NET core project that simulates a robot moving on a 5*5 board.
 4. cd toy-robot-simulation
 5. dotnet build
 6. dotnet run
+7. For trying different commands, please modify the command.txt file and re-run using dotnet run command again.
