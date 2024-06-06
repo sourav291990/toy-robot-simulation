@@ -1,7 +1,7 @@
 This is a .NET core project that simulates a robot moving on a 5*5 board.
 
 #Prerequisites
-.NET Core 8
+.NET 8
 
 #Getting Started
 1. Open command prompt
